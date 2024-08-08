@@ -21,3 +21,13 @@ body {
     box-shadow: 2px 3px #888888;
 }
 
+.link-button {
+        background: #3498db;
+        border: none;
+        border-radius: 5px;
+        color: white;
+        padding: 10px 20px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+}
